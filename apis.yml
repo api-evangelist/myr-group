@@ -10,4 +10,6 @@ specificationVersion: '0.19'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/myr-group
+  - type: Blog
+    url: https://myrgroup.com/feed/
 apis: []
