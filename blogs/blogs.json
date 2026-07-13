@@ -1,0 +1,21 @@
+{
+  "repo": "myr-group",
+  "feeds": [
+    {
+      "source": "https://myrgroup.com/feed/",
+      "feed_url": "https://myrgroup.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.linkedin.com/company/myr-group",
+      "feed_url": "https://www.linkedin.com/company/myr-group",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 9
+}
