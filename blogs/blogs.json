@@ -10,9 +10,12 @@
     },
     {
       "source": "https://www.linkedin.com/company/myr-group",
-      "error": "HTTPError"
+      "feed_url": "https://www.linkedin.com/company/myr-group",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-08-15T12:11:08Z",
-  "post_count": 11
+  "fetched": "2026-08-22T20:20:02Z",
+  "post_count": 12
 }
